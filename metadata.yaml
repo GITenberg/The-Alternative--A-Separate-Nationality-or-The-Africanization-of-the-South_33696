@@ -1,0 +1,32 @@
+_repo: The-Alternative--A-Separate-Nationality-or-The-Africanization-of-the-South_33696
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33696-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Holcombe, William H. (William Henry)
+    aliases:
+    - Holcombe, W. H. (William Henry)
+    - Holcombe, William Henry
+    birthdate: 1825
+    deathdate: 1893
+    gutenberg_agent_id: '36542'
+    url: http://www.gutenberg.org/2009/agents/36542
+description: ''
+gutenberg_issued: '2010-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33696'
+  lccn: '12004690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Secession'
+- !lcc 'E300'
+- !lcsh 'United States -- Politics and government -- 1857-1861'
+- !lcsh 'Slavery -- United States'
+title: 'The Alternative: A Separate Nationality; or, The Africanization of the South'
+url: http://www.gutenberg.org/ebooks/33696
